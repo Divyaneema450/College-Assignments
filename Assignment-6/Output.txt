@@ -1,0 +1,30 @@
+
+ASSIGNMENT NO. 6
+DATA PREPROCESSING USING PYTHON
+
+Dataset: Titanic Dataset
+
+1. Dataset Loading:
+Titanic dataset downloaded successfully.
+Total Records: 891
+
+2. Missing Values Before Processing:
+age        177
+embarked     2
+
+3. Missing Values After Processing:
+age        0
+embarked   0
+
+4. Data Preprocessing:
+- Missing age values replaced using median.
+- Missing embarked values replaced using mode.
+- Categorical variables encoded using One-Hot Encoding.
+- Numerical features normalized using Min-Max Scaling.
+
+5. Output:
+Dataset After Encoding: Successfully generated.
+Dataset After Normalization: Successfully generated.
+
+Processed dataset saved successfully.
+Data preprocessing completed successfully.
