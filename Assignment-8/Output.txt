@@ -1,0 +1,22 @@
+
+ASSIGNMENT NO. 8
+BINARY CLASSIFICATION USING LOGISTIC REGRESSION
+
+Breast Cancer Dataset Loaded Successfully
+Dataset Shape: (569, 30)
+Target Classes: ['malignant' 'benign']
+
+Training Samples: 455
+Testing Samples: 114
+
+Logistic Regression Model Trained Successfully
+
+Accuracy: 98.25 %
+
+Confusion Matrix:
+[[41  1]
+ [ 1 71]]
+
+ROC AUC Score: 0.9954
+
+Evaluation Completed Successfully
