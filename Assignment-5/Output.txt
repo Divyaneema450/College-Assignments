@@ -1,0 +1,52 @@
+
+Math Library:
+Square Root of 25: 5.0
+Factorial of 5: 120
+Ceiling of 4.3: 5
+Floor of 4.8: 4
+
+NumPy Library:
+Array: [50 55 60 65 70 80]
+Mean: 63.333333333333336
+Median: 62.5
+Standard Deviation: 9.8601
+
+SciPy Library:
+Mode of Study Hours: 2
+Correlation: 0.9854
+
+Pandas Library:
+Dataset:
+   Study_Hours  Marks
+0            1     50
+1            2     55
+2            2     60
+3            3     65
+4            4     70
+5            5     80
+
+First Five Records:
+   Study_Hours  Marks
+0            1     50
+1            2     55
+2            2     60
+3            3     65
+4            4     70
+
+Null Values:
+Study_Hours    0
+Marks          0
+
+Summary Statistics:
+       Study_Hours      Marks
+count     6.000000   6.000000
+mean      2.833333  63.333333
+std       1.471960  10.801234
+min       1.000000  50.000000
+25%       2.000000  56.250000
+50%       2.500000  62.500000
+75%       3.750000  68.750000
+max       5.000000  80.000000
+
+Matplotlib Visualization:
+Graph saved as student_marks.png
